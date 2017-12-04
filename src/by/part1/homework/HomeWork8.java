@@ -34,7 +34,7 @@ public class HomeWork8 {
           arr[7]++;
           break;
         default:
-          System.out.println("Empty");
+          System.out.println("Empty or above");
       }
     }
 
