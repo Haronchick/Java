@@ -6,7 +6,7 @@ public class HomeWork4 {
 // the last digit remains single and the print the number as lucky number.
 // example if input is 777 then 7+7+7 =21 = 2+1 =3 so the answer is 3.
   public static void main(String[] args) {
-    int input = 7777, sum = 0, buffer= 0;
+    int input = 7777, sum = 0, buffer = 0;
 
     System.out.println(input);
     while ((input+"").length()>1) {

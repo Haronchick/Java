@@ -7,6 +7,8 @@ public class HomeWork7 {
 // 1) Consider a sentence "welcome to Programr!" its uppercase conversion is "WELCOME TO PROGRAMR!"
 // 2) If user inputs string like "I am a new user of Programr!" it should print "I AM A NEW USER OF PROGRAMR!"
   public static void main(String[] args) {
+  String str = "welcome to Programr!";
 
+  System.out.println("UpperCase: - "+str.toUpperCase());
   }
 }
